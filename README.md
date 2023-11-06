@@ -1,16 +1,9 @@
-# grocery_shop_app
+# Simple Grocery Shop App
 
-A new Flutter project.
+Simple Grocery Shop App
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Simple_Grocery_Shop_App/assets/146417248/28703ee1-d96a-4767-88a2-7270c82223ff)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Simple_Grocery_Shop_App/assets/146417248/815ca362-4ecf-4f02-a54b-943f1c8db8a5)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3](https://github.com/BilalSevinc16/Simple_Grocery_Shop_App/assets/146417248/c2eae3e2-4df2-46d3-b9fb-56ed091d5899)
